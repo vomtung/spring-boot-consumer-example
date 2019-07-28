@@ -1,4 +1,4 @@
-package com.example.kafka.consumer.springbootkafkaconsumerexample;
+package com.example.kafka.consumer.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
